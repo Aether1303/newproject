@@ -3,6 +3,10 @@ public class Main {
         System.out.println(x+y);
         return 0;
     }
+    int sube(int x,int y){
+        System.out.println(x-y);
+        return 0;
+    }
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
